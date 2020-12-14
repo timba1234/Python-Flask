@@ -1,4 +1,5 @@
 # Python-Flask
 
-This code is for learning Flask
+This code is for learning the Flask micro framework.
+
 
